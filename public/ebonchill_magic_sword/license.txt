@@ -1,0 +1,11 @@
+Model Information:
+* title:	TOM 2.0
+* source:	https://sketchfab.com/3d-models/tom-20-92bbd6bffdea498eaa2682cf11e08d19
+* author:	MikeEx (https://sketchfab.com/mikeex)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TOM 2.0" (https://sketchfab.com/3d-models/tom-20-92bbd6bffdea498eaa2682cf11e08d19) by MikeEx (https://sketchfab.com/mikeex) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
